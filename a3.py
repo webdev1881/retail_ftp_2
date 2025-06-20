@@ -453,7 +453,7 @@ class FTPAnalyzer:
         
         # Параметры отчета
         start_date = "2025-06-01"
-        end_date = "2025-06-01"
+        end_date = "2025-06-03"
         
         print(f"📅 Период: {start_date} - {end_date}")
         print(f"🏙️  Города: {', '.join(self.cities.values())}")
